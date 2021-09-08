@@ -1,0 +1,5 @@
+https://www.npmjs.com/package/speak-tts
+
+basic connect logic not working :
+cannot import outside of module ??
+
